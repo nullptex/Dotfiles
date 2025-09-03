@@ -99,6 +99,12 @@ _G.packer_plugins = {
     path = "/Users/nullptex/.local/share/nvim/site/pack/packer/start/lualine.nvim",
     url = "https://github.com/nvim-lualine/lualine.nvim"
   },
+  ["mini.nvim"] = {
+    loaded = false,
+    needs_bufread = false,
+    path = "/Users/nullptex/.local/share/nvim/site/pack/packer/opt/mini.nvim",
+    url = "https://github.com/nvim-mini/mini.nvim"
+  },
   ["nord.nvim"] = {
     loaded = true,
     path = "/Users/nullptex/.local/share/nvim/site/pack/packer/start/nord.nvim",

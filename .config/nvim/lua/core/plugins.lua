@@ -23,7 +23,7 @@ return require('packer').startup(function(use)
   use {'neoclide/coc.nvim', branch = 'release'}
   use ({
     'MeanderingProgrammer/render-markdown.nvim',
-    requires = { 'nvim-tree/nvim-web-devicons', opt = true }
+    requires = { 'nvim-mini/mini.nvim', opt = true }
   })
   use 'lervag/vimtex'
   use 'folke/zen-mode.nvim'
