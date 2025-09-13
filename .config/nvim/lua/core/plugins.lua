@@ -27,7 +27,7 @@ return require('packer').startup(function(use)
   })
   use 'lervag/vimtex'
   use 'folke/zen-mode.nvim'
-
+  use ({ "NStefan002/screenkey.nvim", tag = "*" })
       
   if packer_bootstrap then
     require('packer').sync()

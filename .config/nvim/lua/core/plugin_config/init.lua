@@ -1,4 +1,6 @@
 require("core.plugin_config.theme")
 require("core.plugin_config.nvim-tree")
 require("core.plugin_config.lualine")
+require("core.plugin_config.vimtex")
+require("core.plugin_config.screenkey")
 require("core.plugin_config.coc")
