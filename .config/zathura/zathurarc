@@ -26,7 +26,7 @@ set statusbar-fg                "#E5E9F0"
 set highlight-color             "rgba(208, 135, 112, 0.5)"
 set highlight-active-color      "#BF616A"
 
-set default-bg                  "rgba(46, 52, 64, 1)"
+set default-bg                  "rgba(46, 52, 64, 0.95)"
 set default-fg                  "#D8DEE9"
 set render-loading              "true"
 set render-loading-bg           "#2E3440"
@@ -36,6 +36,7 @@ set recolor-lightcolor          "rgba(46, 52, 64, 0.75)"
 set recolor-darkcolor           "#ECEFF4"
 set recolor                     "true"
 
+set font                        "JetBrainsMono Nerd Font Mono 15"
 set page-padding                10
 set scroll-wrap                 "true"
 
